@@ -13,13 +13,6 @@ A modern and responsive task management dashboard built using React and Vite.
 - 📱 Responsive Dashboard Layout
 - 📂 Sidebar Navigation
 
----
-
-## 📸 Dashboard Preview
-
-<!-- Replace dashboard.png with your actual screenshot name if different -->
-
-![TaskMan Dashboard]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot (423).png")
 
 ---
 
